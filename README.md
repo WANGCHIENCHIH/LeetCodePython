@@ -62,3 +62,23 @@ Do on Python 3.8
 * set two pointer,one for current begin from 0,one for tail Index
 * if nums[current]==val ,replace value with tail element
 * at the end of this,lastindex represent sorted Index
+
+[28. Implement strStr](src/ImplementstrStr.py)
+
+* slide windows?
+
+[35. Search Insert Position](src/SearchInsertPosition.py)
+
+* if target is the smallest in nums ,it will insert to begin,
+* if target is the biggest in nums,it will insert at the tail
+* use binary search to find insert position
+
+[53. Maximum Subarray](src/MaximumSubarray.py)
+
+[58. Length of Last Word](src/LengthofLastWord.py)
+
+[66. Plus One](src/PlusOne.py)
+
+[67. Add Binary](src/AddBinary.py)
+
+[69. Sqrt(x)](src/Sqrt.py)
