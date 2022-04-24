@@ -82,3 +82,88 @@ Do on Python 3.8
 [67. Add Binary](src/AddBinary.py)
 
 [69. Sqrt(x)](src/Sqrt.py)
+
+[70. Climbing Stairs](src/ClimbingStairs.py)
+
+* think stage 1 =1 situation ([1]),stage 2 =2 situations ([1,1] or [2])
+* find and check if stage 3 equal stage 1 add stage 2
+* [1,1,1],[2,1],[1,2]
+* check stage 4 equal stage 3 add stage2
+* [1,1,1,1],[1,1,2],[1,2,1],[2,1,1],[2,2]
+* induction
+* ->stage(n)=stage(n-1)+stage(n-2)
+
+
+[83. Remove Duplicates from Sorted List](src/RemoveDuplicatesfromSortedList.py)
+
+[88. Merge Sorted Array](src/MergeSortedArray.py)
+
+* use three pointer nums1_p,,nums2_p,current,
+* current is the tail index of nums1
+* compare value of nums1,nums2 by pointer nums1_p,nums2_p
+* choose the bigger one insert to current
+* update current,and bigger one 's index
+
+[94. Binary Tree Inorder Traversal](src/BinaryTreeInorderTraversal.py)
+
+* left leaf->root ->right leaf
+
+[100. Same Tree](src/SameTree.py)
+
+[101. Symmetric Tree](src/SymmetricTree.py)
+
+[104. Maximum Depth of Binary Tree]()
+
+[108. Convert Sorted Array to Binary Search Tree]()
+
+[110. Balanced Binary Tree]()
+
+[111. Minimum Depth of Binary Tree]()
+
+[112. Path Sum]()
+
+[118. Pascal's Triangle]()
+
+[119. Pascal's Triangle II]()
+
+[121. Best Time to Buy and Sell Stock]()
+
+[125. Valid Palindrome]()
+
+[136. Single Number]()
+
+[141. Linked List Cycle]()
+
+[144. Binary Tree Preorder Traversal]()
+
+* root-> left leaf ->right leaf
+
+[145. Binary Tree Postorder Traversal]()
+
+* left leaf ->right leaf->root
+
+[155. Min Stack]()
+
+[160. Intersection of Two Linked Lists]()
+
+[168. Excel Sheet Column Title]()
+
+[169. Majority Element]()
+
+[171. Excel Sheet Column Number]()
+
+[190. Reverse Bits]()
+
+[191. Number of 1 Bits]()
+
+[202. Happy Number]()
+
+[203. Remove Linked List Elements]()
+
+[205. Isomorphic Strings]()
+
+[206. Reverse Linked List]()
+
+[217. Contains Duplicate]()
+
+[219. Contains Duplicate II]()
