@@ -112,15 +112,17 @@ Do on Python 3.8
 
 [101. Symmetric Tree](src/SymmetricTree.py)
 
-[104. Maximum Depth of Binary Tree]()
+[104. Maximum Depth of Binary Tree](src/MaximumDepthofBinaryTree.py)
 
-[108. Convert Sorted Array to Binary Search Tree]()
+[108. Convert Sorted Array to Binary Search Tree](src/ConvertSortedArraytoBinarySearchTree.py)
 
-[110. Balanced Binary Tree]()
+[110. Balanced Binary Tree](src/BalancedBinaryTree.py)
 
-[111. Minimum Depth of Binary Tree]()
+[111. Minimum Depth of Binary Tree](src/MinimumDepthofBinaryTree.py)
 
-[112. Path Sum]()
+[112. Path Sum](src/PathSum.py)
+
+* if not left ,root,right ,target sum - root node value
 
 [118. Pascal's Triangle]()
 
