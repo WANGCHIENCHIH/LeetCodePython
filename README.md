@@ -124,23 +124,23 @@ Do on Python 3.8
 
 * if not left ,root,right ,target sum - root node value
 
-[118. Pascal's Triangle]()
+[118. Pascal's Triangle](src/PascalsTriangle.py)
 
-[119. Pascal's Triangle II]()
+[119. Pascal's Triangle II](src/PascalsTriangleII.py)
 
-[121. Best Time to Buy and Sell Stock]()
+[121. Best Time to Buy and Sell Stock](src/BestTimetoBuyandSellStock.py)
 
-[125. Valid Palindrome]()
+[125. Valid Palindrome](src/ValidPalindrome.py)
 
-[136. Single Number]()
+[136. Single Number](src/SingleNumber.py)
 
-[141. Linked List Cycle]()
+[141. Linked List Cycle](src/LinkedListCycle.py)
 
-[144. Binary Tree Preorder Traversal]()
+[144. Binary Tree Preorder Traversal](src/BinaryTreePreorderTraversal.py)
 
 * root-> left leaf ->right leaf
 
-[145. Binary Tree Postorder Traversal]()
+[145. Binary Tree Postorder Traversal](src/BinaryTreePostorderTraversal.py)
 
 * left leaf ->right leaf->root
 
