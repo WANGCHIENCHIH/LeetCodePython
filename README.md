@@ -144,28 +144,67 @@ Do on Python 3.8
 
 * left leaf ->right leaf->root
 
-[155. Min Stack]()
+[155. Min Stack](src/MinStack.py)
 
-[160. Intersection of Two Linked Lists]()
+[160. Intersection of Two Linked Lists](src/IntersectionofTwoLinkedLists.py)
 
-[168. Excel Sheet Column Title]()
+[169. Majority Element](src/MajorityElement.py)
 
-[169. Majority Element]()
+[171. Excel Sheet Column Number](src/ExcelSheetColumnNumber.py)
 
-[171. Excel Sheet Column Number]()
+[190. Reverse Bits](src/ReverseBits.py)
 
-[190. Reverse Bits]()
+[191. Number of 1 Bits](src/Numberof1Bits.py)
 
-[191. Number of 1 Bits]()
+[202. Happy Number](src/HappyNumber.py)
 
-[202. Happy Number]()
+[203. Remove Linked List Elements](src/RemoveLinkedListElements.py)
 
-[203. Remove Linked List Elements]()
+[205. Isomorphic Strings](src/IsomorphicStrings.py)
 
-[205. Isomorphic Strings]()
+[206. Reverse Linked List](src/ReverseLinkedList.py)
 
-[206. Reverse Linked List]()
+[217. Contains Duplicate](src/ContainsDuplicate.py)
 
-[217. Contains Duplicate]()
+[219. Contains Duplicate II](src/ContainsDuplicateII.py)
 
-[219. Contains Duplicate II]()
+[225. Implement Stack using Queues]()
+
+[226. Invert Binary Tree]()
+
+[228. Summary Ranges]()
+
+[231. Power of Two]()
+
+[232. Implement Queue using Stacks]()
+
+[234. Palindrome Linked List]()
+
+[235. Lowest Common Ancestor of a Binary Search Tree]()
+
+[237. Delete Node in a Linked List]()
+
+[242. Valid Anagram]()
+
+[257. Binary Tree Paths]()
+
+[258. Add Digits]()
+
+[263. Ugly Number]()
+
+[268. Missing Number]()
+
+[278. First Bad Version]()
+
+---------
+
+A lonely programer, 
+Could you buy me a cup of coffee, if you don't mind.
+
+```
+ETH:0x7743c5f84926ee8ec469562c8e2c64436c8b9ebe
+``` 
+
+```
+USDT:0x7743c5f84926ee8ec469562c8e2
+```
