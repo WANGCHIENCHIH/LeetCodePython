@@ -168,19 +168,19 @@ Do on Python 3.8
 
 [219. Contains Duplicate II](src/ContainsDuplicateII.py)
 
-[225. Implement Stack using Queues]()
+[225. Implement Stack using Queues](src/ImplementStackusingQueues.py)
 
-[226. Invert Binary Tree]()
+[226. Invert Binary Tree](src/InvertBinaryTree.py)
 
-[228. Summary Ranges]()
+[228. Summary Ranges](src/SummaryRanges.py)
 
-[231. Power of Two]()
+[231. Power of Two](src/PowerofTwo.py)
 
-[232. Implement Queue using Stacks]()
+[232. Implement Queue using Stacks](src/ImplementQueueusingStacks.py)
 
-[234. Palindrome Linked List]()
+[234. Palindrome Linked List](src/PalindromeLinkedList.py)
 
-[235. Lowest Common Ancestor of a Binary Search Tree]()
+[235. Lowest Common Ancestor of a Binary Search Tree](src/LowestCommonAncestorofaBinarySearchTree.py)
 
 [237. Delete Node in a Linked List]()
 
